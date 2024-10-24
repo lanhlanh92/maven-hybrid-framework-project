@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome UI"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.024">
+  <properties />
+  
+  
+            <testcase name="User_01_Register_Validate" time="0.020" classname="com.nopcommerce.users.Level_31_Environment_03_Java_Properties" />
+                <testcase name="User_02_Register_Success" time="0.001" classname="com.nopcommerce.users.Level_31_Environment_03_Java_Properties" />
+                <testcase name="User_03_Login" time="0.003" classname="com.nopcommerce.users.Level_31_Environment_03_Java_Properties" />
+      
+</testsuite>

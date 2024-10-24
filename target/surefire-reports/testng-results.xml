@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[OS name = mac os x]]>
+    </line>
+    <line>
+      <![CDATA[Driver instance name = chromedriver: chrome on mac (1fc9a332b923229ff82bf494e7638ebe)]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-24T16:03:34 ICT" name="NopCommerce - UI Automation" finished-at="2024-10-24T16:03:40 ICT" duration-ms="6242">
+    <groups>
+    </groups>
+    <test started-at="2024-10-24T16:03:34 ICT" name="Run on Chrome UI" finished-at="2024-10-24T16:03:40 ICT" duration-ms="6242">
+      <class name="com.nopcommerce.users.Level_31_Environment_03_Java_Properties">
+        <test-method is-config="true" signature="deleteFileInReport()[pri:0, instance:com.nopcommerce.users.Level_31_Environment_03_Java_Properties@7fad214a]" started-at="2024-10-24T16:03:34 ICT" name="deleteFileInReport" finished-at="2024-10-24T16:03:34 ICT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteFileInReport -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String,java.lang.String)[pri:0, instance:com.nopcommerce.users.Level_31_Environment_03_Java_Properties@7fad214a]" started-at="2024-10-24T16:03:34 ICT" name="beforeClass" finished-at="2024-10-24T16:03:40 ICT" duration-ms="5984" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dev]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="User_01_Register_Validate(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.users.Level_31_Environment_03_Java_Properties@7fad214a]" started-at="2024-10-24T16:03:40 ICT" name="User_01_Register_Validate" finished-at="2024-10-24T16:03:40 ICT" duration-ms="20" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.users.Level_31_Environment_03_Java_Properties.User_01_Register_Validate(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_01_Register_Validate -->
+        <test-method signature="User_02_Register_Success(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.users.Level_31_Environment_03_Java_Properties@7fad214a]" started-at="2024-10-24T16:03:40 ICT" name="User_02_Register_Success" finished-at="2024-10-24T16:03:40 ICT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.users.Level_31_Environment_03_Java_Properties.User_02_Register_Success(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_02_Register_Success -->
+        <test-method signature="User_03_Login(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.users.Level_31_Environment_03_Java_Properties@7fad214a]" started-at="2024-10-24T16:03:40 ICT" name="User_03_Login" finished-at="2024-10-24T16:03:40 ICT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.users.Level_31_Environment_03_Java_Properties.User_03_Login(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_03_Login -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.users.Level_31_Environment_03_Java_Properties@7fad214a]" started-at="2024-10-24T16:03:40 ICT" name="afterClass" finished-at="2024-10-24T16:03:40 ICT" duration-ms="135" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[OS name = mac os x]]>
+            </line>
+            <line>
+              <![CDATA[Driver instance name = chromedriver: chrome on mac (1fc9a332b923229ff82bf494e7638ebe)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.users.Level_31_Environment_03_Java_Properties -->
+    </test> <!-- Run on Chrome UI -->
+  </suite> <!-- NopCommerce - UI Automation -->
+</testng-results>

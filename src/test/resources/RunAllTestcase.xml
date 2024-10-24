@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "testng-1.0.dtd" >
+<suite parallel="none" name="NopCommerce - Automation">
+
+	<suite-files>
+		<suite-file path="RunNopCommerceAPI.xml"></suite-file>
+		<suite-file path="RunNopCommerceWeb.xml"></suite-file>
+	</suite-files>
+	
+</suite>
