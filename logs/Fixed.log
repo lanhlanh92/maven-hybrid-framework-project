@@ -36,3 +36,7 @@ Session ID: 2ee46c53ae93c6fa4216790b05a30c6b
 [24-10-2024 14:41:19.297 INFO com.nopcommerce.users.Level_31_Environment_03_Java_Properties] - Driver instance name = chromedriver: chrome on mac (250a4b7d55b2b8ee2ace7a48c9aece8a)
 [24-10-2024 16:03:40.633 INFO com.nopcommerce.users.Level_31_Environment_03_Java_Properties] - OS name = mac os x
 [24-10-2024 16:03:40.635 INFO com.nopcommerce.users.Level_31_Environment_03_Java_Properties] - Driver instance name = chromedriver: chrome on mac (1fc9a332b923229ff82bf494e7638ebe)
+[25-10-2024 15:30:31.393 INFO com.nopcommerce.users.Level_31_Environment_02_Multiple_XML] - OS name = mac os x
+[25-10-2024 15:30:31.396 INFO com.nopcommerce.users.Level_31_Environment_02_Multiple_XML] - Driver instance name = chromedriver: chrome on mac (6d265c6722c616406b6b3af042f2f640)
+[25-10-2024 15:30:52.211 INFO com.nopcommerce.users.Level_31_Environment_02_Multiple_XML] - OS name = mac os x
+[25-10-2024 15:30:52.214 INFO com.nopcommerce.users.Level_31_Environment_02_Multiple_XML] - Driver instance name = chromedriver: chrome on mac (6f5be9f7280038394c6a6428cfe58ebf)

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite parallel="none" name="NopCommerce - UI Automation">
+	<listeners>
+		<listener class-name="listener.ReportNGListener"/>
+	</listeners>
+	
+	<test name="Run on Chrome">
+		<parameter name="browser" value="Chrome"/>
+		<classes>
+			<class name="com.nopcommerce.users.Level_15_Log" />
+		</classes>
+	</test>
+	
+	<test name="Run on Firefox">
+		<parameter name="browser" value="Firefox"/>
+		<classes>
+			<class name="com.nopcommerce.users.Level_15_Log" />
+		</classes>
+	</test>
+</suite>

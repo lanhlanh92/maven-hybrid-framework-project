@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "testng-1.0.dtd" >
+<suite parallel="none" name="NopCommerce - Web Automation API">
+	<listeners>
+		<listener class-name="commons.MethodListener"/>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+	</listeners>
+	
+	<test name="Payment TestSuite">
+		<parameter name="browser" value="Chrome"/>
+		<classes>
+			<class name="com.nopcommerce.users.Level_15_Log" />
+		</classes>
+	</test>
+</suite>
