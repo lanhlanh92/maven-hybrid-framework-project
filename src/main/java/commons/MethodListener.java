@@ -12,7 +12,7 @@ public class MethodListener implements IInvokedMethodListener {
 	@Override
 	public void beforeInvocation(IInvokedMethod method, ITestResult result) {
 
-	}
+	} 
 
 	@Override
 	public void afterInvocation(IInvokedMethod method, ITestResult result) {
