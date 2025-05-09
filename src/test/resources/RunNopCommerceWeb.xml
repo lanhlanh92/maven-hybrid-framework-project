@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite parallel="none" name="NopCommerce - UI Automation">
 	<listeners>
 		<listener class-name="commons.MethodListener"/>
@@ -12,7 +11,7 @@
 	<test name="Run on Chrome UI" preserve-order="true">
 		<parameter name="browser" value="chrome"/>
 		<classes>
-			<class name="com.nopcommerce.users.Level_31_Environment_03_Java_Properties"/>
+			<class name="com.nopcommerce.users.Level_01_Register"/>
 		</classes>
 	</test>
 </suite>

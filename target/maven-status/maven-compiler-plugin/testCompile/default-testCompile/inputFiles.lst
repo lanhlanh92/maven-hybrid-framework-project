@@ -1,48 +1,48 @@
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_31_Environment_04_Owner.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_25_Data_In_XML.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/share/Product.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_07_Switch_Multiple_Page.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_02_Apply_BasePage_Initial.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_14_Assert_Verify.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_16_ReportNG.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/jquery/upload/Level_14_Upload_File.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_06_Page_Generator_03.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_15_Log.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/facebook/home/Level_20_Element_Undisplayed.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_23_FakerDataTest.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/cookie/Common_Register.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_21_Pattern_Object.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_08_Page_Navigation.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/cookie/Order.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_22_Close_Browser.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/cookie/Product.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_29_Data_EXCEL.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_31_Environment_02_Multiple_XML.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_06_Page_Generator_01.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_10_Global_Constants.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_26_Data_In_Internal.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_18_Extent_V4.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_09_Switch_Site_Url.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_02_Apply_BasePage_Inheritance.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/share/Payment.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_18_Extent_V3.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_06_Page_Generator_02.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_27_Data_POJO.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_19_AllureReport.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/cookie/Payment.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/jquery/table/Level_13_Handle_DataTable.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_03_Page_Object_Pattern.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_17_Extent_V2.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_11_Dynamic_Locator_Rest_Param.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/share/Common_Register.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_01_Register.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_24_Data_In_Class.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_05_Page_Factory.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_31_Environment_01_Parameter_Name.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_31_Environment_03_Java_Properties.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/share/Order.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_28_Data_JSON.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_02_Apply_BasePage_Static.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_18_Extent_V5.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/orangehrm/pim/PIM_01_Employee.java
-/Users/lanh/automation/04-Maven Hybrid Framework/maven-hybrid-framework-project/src/test/java/com/nopcommerce/users/Level_04_Multiple_Browser.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/cookie/Payment.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_07_Switch_Multiple_Page.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_31_Environment_03_Java_Properties.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_23_FakerDataTest.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_31_Environment_04_Owner.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/jquery/table/Level_13_Handle_DataTable.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/jquery/upload/Level_14_Upload_File.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_26_Data_In_Internal.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_04_Multiple_Browser.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_31_Environment_01_Parameter_Name.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_02_Apply_BasePage_Initial.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_29_Data_EXCEL.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_02_Apply_BasePage_Static.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_08_Page_Navigation.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_18_Extent_V4.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/cookie/Order.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/share/Product.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_31_Environment_02_Multiple_XML.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_11_Dynamic_Locator_Rest_Param.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/cookie/Common_Register.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_24_Data_In_Class.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_06_Page_Generator_01.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_16_ReportNG.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_25_Data_In_XML.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_18_Extent_V3.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/cookie/Product.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_14_Assert_Verify.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_27_Data_POJO.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_28_Data_JSON.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_09_Switch_Site_Url.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_17_Extent_V2.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/share/Payment.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_19_AllureReport.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_10_Global_Constants.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_06_Page_Generator_02.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_01_Register.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/share/Order.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_03_Page_Object_Pattern.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_21_Pattern_Object.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_05_Page_Factory.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/share/Common_Register.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_06_Page_Generator_03.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_02_Apply_BasePage_Inheritance.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_22_Close_Browser.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_18_Extent_V5.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/orangehrm/pim/PIM_01_Employee.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/nopcommerce/users/Level_15_Log.java
+/Users/hieu/automation/06-Maven/maven-hybird-framework-project/src/test/java/com/facebook/home/Level_20_Element_Undisplayed.java
